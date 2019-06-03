@@ -1,0 +1,23 @@
+{
+  "name": "mdb-npm-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://10.25.229.101/doc/mdb-npm-guide.git"
+  },
+  "keywords": [],
+  "author": "shangwfa",
+  "license": "ISC",
+  "dependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
